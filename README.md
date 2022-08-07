@@ -1,6 +1,5 @@
 
 ### Hello, this is Chere Lemma 👋
-
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -18,7 +17,8 @@
 <h4>GitHub Stats! 📊</h4>
 <Br>
   
-[![Chere's github stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=merko)](https://github.com/cherelemma/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&theme=tokyonight)](https://github.com/cherelemma/github-readme-stats)
+[![Chere's github stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=merko)](https://github.com/cherelemma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&theme=tokyonight)](https://github.com/cherelemma/github-readme-stats)
   
 <Br>
 <h5>Open to new opportunities!</h5>
