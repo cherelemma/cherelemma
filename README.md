@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @cherelemma
-- 🔭 I’m currently teaching, training, conducting research and learning  deve 
+- 🔭 I’m currently teaching, training, conducting research and learning full stack development 
 - 🌱 I’m currently learning full stack development
 - 👯 I’m looking to collaborate on AI research and full stack development 
 - 💬 Ask me about teaching and research methodology 
