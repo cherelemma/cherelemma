@@ -20,7 +20,6 @@
 [![Chere's github stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=merko)](https://github.com/cherelemma/github-readme-stats)
 <Br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&theme=tokyonight)](https://github.com/cherelemma/github-readme-stats)
-  
 <Br>
 <h5>Open to new opportunities!</h5>
 ------
