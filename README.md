@@ -1,12 +1,29 @@
-- 👋 Hello, I’m @cherelemma
-- 🔭 I’m working in higher education institution [teaching, training, and conducting research] 
-- 🌱 I’m currently learning full stack development
+
+### Hello, this is Chere Lemma 👋
+
+<Br>
+<h1>About Me! 😎</h1>
+
+- 🔭 I’m currently leading research works and web development projects in addition to delivering courses and trainings.
+- 🌱 I’m currently learning full stack development 
 - 👯 I’m looking to collaborate on AI research and full stack development 
-- 💬 Ask me about teaching and research methodology 
+- 💬 Ask me about teaching and research methodology
+- 🤔: I’m looking for remote jobs! 😅
+- 💬: Ask me about low level, fucntional and obejct oriented programming
+- 😄  Pronouns: He/His
+- ⚡  Real Love: continues personal development, Mentoring my junior and fellow students, particpating in social activities.
 - 📫 You can reach me out via email - chere.lemma@aastu.edu.et or Twitter @Chere21271613 or Telegram@urgaya
-
-<!--
-**cherelemma/cherelemma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+  
+<Br>
+<h4>GitHub Stats! 📊</h4>
+<Br>
+  
+[![Chere's github stats]
+  (https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=merko)]
+ 
+  [![Top Langs]
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&theme=tokyonight)]
+  
+<Br>
+<h5>Open to new opportunities!</h5>
+------
