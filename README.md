@@ -1,6 +1,5 @@
+![image](https://user-images.githubusercontent.com/73167960/208513489-b62d2b86-d8e0-4a2c-8647-a92be667a1e4.png)
 
-### Hello, this is Chere Lemma 👋
-  
 <h1>About Me! 😎</h1>
 
 - 🌱 I’m currently learning full stack development 
@@ -46,7 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&theme=tokyonight)](https://github.com/cherelemma/github-readme-stats)
 <Br>
 <h5>Open to new opportunities!</h5>
-------
+----------------------------
 <!
 - 🔭 I’m currently leading research works and web development projects in addition to delivering courses and trainings.
 !>
