@@ -1,4 +1,4 @@
-![Chere Lemma](https://user-images.githubusercontent.com/73167960/221070949-d94228e2-6d5c-4562-b5d3-edbfb658cdb6.png)
+![Chere Lemma (1)](https://user-images.githubusercontent.com/73167960/221072866-9dd2e627-22ed-49dc-999a-3c2317d03c73.png)
 
 <h1>About Me! 😎</h1>
 
