@@ -43,6 +43,13 @@
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cherelemma&theme=default)](https://git.io/streak-stats)
 <Br>
+  
+  <div align="end">
+<p><b>Visitors Count</b></p>  
+<img src="https://profile-counter.glitch.me/{cherelemma}/count.svg" />
+</div>
+<!-- ?
+<br>
 <h5>Open to new opportunities!</h5>
 ----------------------------
 <!
