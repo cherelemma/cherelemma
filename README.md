@@ -39,7 +39,7 @@
 <h2> GitHub Stats! 📊 </h2>
 
 ![Chere's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&layout=compact&langs_count=7&width=900)](https://github.com/cherelemma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&layout=compact&langs_count=7&width=900approx)](https://github.com/cherelemma/github-readme-stats)
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cherelemma&theme=default&align=center)](https://git.io/streak-stats)
