@@ -16,6 +16,7 @@
 <a href=" https://twitter.com/Chere21271613" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Chere Lemma" height="30" width="40" /></a>
 <a href="https://wellfound.com/u/chere-lemma-urgaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angellist.svg" alt="Chere Lemma" height="30" width="40" /></a>
 </p>
+
 </br>
 <h2> :hammer_and_wrench: Languages and Tools</h2>
 <div>
@@ -33,11 +34,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
  </div>
-   
+ 
+</br>
 ## GitHub Stats! 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&theme=tokyonight)](https://github.com/cherelemma/github-readme-stats)
 ![Chere's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&layout=compact)](https://github.com/cherelemma/github-readme-stats)
 
 <Br>
 <h5>Open to new opportunities!</h5>
