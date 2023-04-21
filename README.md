@@ -2,13 +2,15 @@
 
 <h1>About Me! 😎</h1>
 
-- 🌱 I’m currently learning full stack development 
+- 🌱 I’m currently learning full stack development and research in Machine Learning
 - 👯 I’m looking to collaborate on AI research and full stack development 
 - 🤔: I’m looking for remote jobs! 😅
-- 💬: Ask me about low level, fucntional and obejct oriented programming
+- 💬: Ask me about low level, fucntional and obejct oriented programming, and Script languages
 - 😄  Pronouns: He/His
 - ⚡  Real Love: continues personal development, Mentoring my junior and fellow students, particpating in social activities.
-- 📫 You can reach me out via
+
+
+<h3 align="left">Let's Connect</h3>
     <div id="badges">
       <a href="https://www.linkedin.com/in/chere-lemma27211613/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
