@@ -37,8 +37,7 @@
 ## GitHub Stats! 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&theme=tokyonight)](https://github.com/cherelemma/github-readme-stats)
- 
-[![Chere's github stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=merko)](https://github.com/cherelemma/github-readme-stats)
+![Chere's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=radical)
 
 <Br>
 <h5>Open to new opportunities!</h5>
