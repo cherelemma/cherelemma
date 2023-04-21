@@ -36,9 +36,9 @@
  </div>
  
 </br>
-## GitHub Stats! 📊
+<h2> GitHub Stats! 📊 </h2>
 
-![Chere's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=nord)
+![Chere's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&layout=compact&langs_count=7)](https://github.com/cherelemma/github-readme-stats)
 
 <Br>
