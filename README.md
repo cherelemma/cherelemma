@@ -10,19 +10,7 @@
 - ⚡  Real Love: continues personal development, Mentoring my junior and fellow students, particpating in social activities.
 
 
-<h3 align="left">Let's Connect</h3>
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/chere-lemma27211613/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://twitter.com/Chere21271613" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
-      </a>
-      <a href="mailto:chere.lemma@aastu.edu.et" target="_blank">
-        <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logoColor=white" alt="Email Badge"/>
-      </a>
-    </div>
-    
+<h2 align="left">Let's Connect</h2>    
 <p align="left">
 <a href="https://www.linkedin.com/in/chere-lemma27211613/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Chere Lemma" height="30" width="40" /></a>
 <a href=" https://twitter.com/Chere21271613" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Chere Lemma" height="30" width="40" /></a>
