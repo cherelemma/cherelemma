@@ -17,7 +17,7 @@
 <a href="https://wellfound.com/u/chere-lemma-urgaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angellist.svg" alt="Chere Lemma" height="30" width="40" /></a>
 </p>
 
-
+</br>
 <h2> :hammer_and_wrench: Languages and Tools</h2>
 <div>
 
