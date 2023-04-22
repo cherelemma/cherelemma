@@ -70,8 +70,8 @@
 
 <h3 align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=cherelemma&theme=darkhub&row=1&count=10)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=cherelemma&theme=darkhub&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </h3> 
 <br>
 <h2 align="center">
