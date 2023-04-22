@@ -9,7 +9,8 @@
 - 😄  Pronouns: He/His
 - ⚡  Real Love: continues personal development, Mentoring my junior and fellow students, particpating in social activities.
 
-![](https://komarev.com/ghpvc/?username=your-github-cherelemma&style=flat-square&label=Profile+Views)
+<br>
+![](https://komarev.com/ghpvc/?username=your-github-cherelemma&style=plastic%color=brightgreen&label=Profile+Views)
 
 <h2 align="left">Let's Connect</h2>    
 <p align="left">
