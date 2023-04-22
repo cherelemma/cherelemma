@@ -38,7 +38,7 @@
 </br>
 <h2> GitHub Stats! 📊 </h2>
 
-![Chere's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=default&bg_color=gray)
+![Chere's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=default&bg_color=#145269)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&layout=compact&langs_count=7&width=900approx)](https://github.com/cherelemma/github-readme-stats)
 <br>
 
