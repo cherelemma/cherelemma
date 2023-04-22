@@ -22,7 +22,7 @@
 
 <br>
 
-<h2> :hammer_and_wrench: Languages and Tools</h2>
+<h2> :hammer_and_wrench: Languages and Tech Stack</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
