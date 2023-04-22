@@ -65,9 +65,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=cherelemma&theme=darkhub&row=1)
 
 <br>
-
+<p align="center">
 ![image](https://user-images.githubusercontent.com/73167960/233753467-60b8bda5-1b35-45ef-b831-8e861323783c.png)
-
+  
+ </p>
 ----------------------------
 <!
 - 🔭 I’m currently leading research works and web development projects in addition to delivering courses and trainings.
