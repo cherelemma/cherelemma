@@ -59,6 +59,7 @@
 <h3 align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cherelemma&theme=default&align=center)](https://git.io/streak-stats)
+[![Chere's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cherelemma&theme=github)](https://github.com/cherelemma/github-readme-activity-graph)
   
 </h3> 
 
