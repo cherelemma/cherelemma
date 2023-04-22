@@ -1,9 +1,9 @@
-<h1 align="center"> Hello, there!</h1>
+<h1 align="center"> Hello there 👋</h1>
 <h3 align="center">
 
 ![](https://komarev.com/ghpvc/?username=your-github-cherelemma&style=plastic&color=brightgreen&label=Profile+Views)
 ![](https://github.com/cherelemma/cherelemma/graphs/contributors")<img src="https://img.shields.io/github/contributors/cherelemma/cherelemma?color=blue">
-![]("https://github.com/cherelemma)<img src="https://img.shields.io/github/stars/cherelemma.svg?color=blue&logo=github"></a>
+![](https://github.com/cherelemma)<img src="https://img.shields.io/github/stars/cherelemma.svg?color=blue&logo=github"></a>
 ![](https://github.com/cherelemma/cherelemma/network/members)<img src="https://img.shields.io/github/forks/cherelemma/cherelemma.svg?color=blue&logo=github">
 
 </h3>
