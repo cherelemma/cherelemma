@@ -37,12 +37,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
  </div>
- 
-</br>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=cherelemma&theme=darkhub&row=1)
 
 <br>
 <h2> GitHub Stats! 📊 </h2>
@@ -54,7 +48,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cherelemma&theme=default&align=center)](https://git.io/streak-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cherelemma&repo=cherelemma)](https://github.com/cherelemma/github-readme-stats)
 
+</br>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=cherelemma&theme=darkhub&row=1)
+
 <br>
+
 <h5>Open to new opportunities!</h5>
 ----------------------------
 <!
