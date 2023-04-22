@@ -11,7 +11,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-cherelemma&style=flat&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=your-github-cherelemma&style=plastic&color=brightgreen&label=Profile+Views)
 
 <h2 align="left">Let's Connect</h2>    
 <p align="left">
