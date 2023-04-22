@@ -10,6 +10,7 @@
 - ⚡  Real Love: continues personal development, Mentoring my junior and fellow students, particpating in social activities.
 
 <br>
+
 ![](https://komarev.com/ghpvc/?username=your-github-cherelemma&style=flat&label=Profile+Views)
 
 <h2 align="left">Let's Connect</h2>    
