@@ -56,12 +56,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&layout=compact&langs_count=7&width=900approx)](https://github.com/cherelemma/github-readme-stats)
 <br>
 
-<p align="center">
+<h3 align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cherelemma&theme=default&align=center)](https://git.io/streak-stats)
+  
+</h3> 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cherelemma&repo=cherelemma)](https://github.com/cherelemma/github-readme-stats)
 
-</p> 
 
 ## 🏆 GitHub Trophies
 
