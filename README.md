@@ -68,8 +68,11 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=cherelemma&theme=darkhub&row=1&width=1200)
+<h3 align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=cherelemma&theme=darkhub&row=1&margin=10)
 
+</h3> 
 <br>
 <h2 align="center">
   
