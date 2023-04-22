@@ -1,4 +1,7 @@
 <h1 align="center"> Hello there 👋</h1>
+
+![Chere Lemma (1)](https://user-images.githubusercontent.com/73167960/221072866-9dd2e627-22ed-49dc-999a-3c2317d03c73.png)
+
 <h3 align="center">
 
 ![](https://komarev.com/ghpvc/?username=your-github-cherelemma&style=plastic&color=brightgreen&label=Profile+Views)
@@ -8,9 +11,9 @@
 
 </h3>
 
-![Chere Lemma (1)](https://user-images.githubusercontent.com/73167960/221072866-9dd2e627-22ed-49dc-999a-3c2317d03c73.png)
-
 <h1>About Me! 😎</h1>
+
+Hello, I am a software engineer and researcher who aspires and commits to researching, designing, and developing responsive desktop and web apps. I am a dynamic, persistent, resilient, fast learner, self-motivated, hard worker, team-oriented, and collaborative person. Also, I love challenges and easily adapt to any work environment. Besides, I value professionalism, integrity, collaboration, lifelong learning, continuous development, quality of work, and social responsibility.
 
 - 🌱 I’m currently learning full stack development and research in Machine Learning
 - 👯 I’m looking to collaborate on AI research and full stack development 
