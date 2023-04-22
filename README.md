@@ -65,6 +65,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cherelemma&repo=cherelemma)](https://github.com/cherelemma/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cherelemma&repo=github-readme-stats)](https://github.com/cherelemma/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 
