@@ -66,7 +66,8 @@
 
 <br>
 
-<h5>Open to new opportunities!</h5>
+![image](https://user-images.githubusercontent.com/73167960/233753467-60b8bda5-1b35-45ef-b831-8e861323783c.png)
+
 ----------------------------
 <!
 - 🔭 I’m currently leading research works and web development projects in addition to delivering courses and trainings.
