@@ -9,6 +9,7 @@
 - 😄  Pronouns: He/His
 - ⚡  Real Love: continues personal development, Mentoring my junior and fellow students, particpating in social activities.
 
+![](https://komarev.com/ghpvc/?username=your-github-cherelemma&style=flat-square&label=Profile+Views)
 
 <h2 align="left">Let's Connect</h2>    
 <p align="left">
@@ -38,7 +39,7 @@
 </br>
 <h2> GitHub Stats! 📊 </h2>
 
-![Chere's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=default&bg_color=#145269)
+![Chere's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&layout=compact&langs_count=7&width=900approx)](https://github.com/cherelemma/github-readme-stats)
 <br>
 
