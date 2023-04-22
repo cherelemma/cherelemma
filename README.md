@@ -59,10 +59,9 @@
 <h3 align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cherelemma&theme=default&align=center)](https://git.io/streak-stats)
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=cherelemma&theme=xcode)  
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=cherelemma&theme=xcode)
+  
 </h3> 
-
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cherelemma&repo=cherelemma)](https://github.com/cherelemma/github-readme-stats)
 
