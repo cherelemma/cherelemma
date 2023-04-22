@@ -1,3 +1,11 @@
+<p align="center">
+    <a href="https://github.com/cherelemma/cherelemma"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/cherelemma/cherelemma/graphs/contributors"><img src="https://img.shields.io/github/contributors/cherelemma/cherelemma?color=blue"></a>
+    <a href="https://github.com/cherelemma"><img src="https://img.shields.io/github/stars/cherelemma.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/cherelemma/cherelemma/network/members"><img src="https://img.shields.io/github/forks/cherelemma/cherelemma.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=cherelemma.cherelemma" alt="visitors"/>
+</p>
+
 ![Chere Lemma (1)](https://user-images.githubusercontent.com/73167960/221072866-9dd2e627-22ed-49dc-999a-3c2317d03c73.png)
 
 <h1>About Me! 😎</h1>
