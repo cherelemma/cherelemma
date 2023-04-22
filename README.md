@@ -53,7 +53,7 @@
 <h2> GitHub Stats! 📊 </h2>
 
 ![Chere's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherelemma&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&layout=compact&langs_count=7&card_width=560)](https://github.com/cherelemma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherelemma&layout=compact&langs_count=7&card_width=360)](https://github.com/cherelemma/github-readme-stats)
 <br>
 
 <h3 align="center">
