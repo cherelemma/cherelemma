@@ -48,7 +48,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cherelemma&theme=default&align=center)](https://git.io/streak-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cherelemma&repo=cherelemma)](https://github.com/cherelemma/github-readme-stats)
 
-</br>
 
 ## 🏆 GitHub Trophies
 
