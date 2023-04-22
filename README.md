@@ -39,7 +39,9 @@
  </div>
  
 </br>
+
 ## 🏆 GitHub Trophies
+
 https://github-profile-trophy.vercel.app/?username=cherelemma&theme=darkhub
 
 <br>
